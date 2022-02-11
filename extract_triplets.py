@@ -7,8 +7,7 @@ import time
 import ast
 
 # Put the paragraph in text
-text=""" A snake charmer is a person who moves the streets with different types of the banks of the river Yamuna. It is snakes in his basket. He goes from one place to another to show various types of snakes and their tricks. """
-
+text=""" Vishal Kumar works in Delhi """
 
 
 dfa = {0:{'0':0, '1':1},
